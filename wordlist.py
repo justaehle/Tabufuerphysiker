@@ -1,7 +1,8 @@
 #Wörter volgendermaßen hinzufügen:
 #gesuchtes Wort = 	3 Wörter die man nicht benutzen darf
 # folgend abgespeichert: {'searched Word': 'gesuchtes Wort', 'word1': 'erstes Wort', 'word2': 'zweites Wort', 'word3': 'drittes Wort'}
-#
+# mögliche liste für weitere Wörter: https://padup.uni-potsdam.de/index.php?name=g.5jvxmrtKeivhY0nP$a.k3HZHwZQf0VIJoGl.Skribbliowordlist
+
 liste=[{'searched Word': 'Geschwindigkeit', 'word1': 'Ort', 'word2': 'Beschleunigung', 'word3': 'Mechanik'},
        {'searched Word': 'Inertialsystem', 'word1': 'Ort', 'word2': 'Koordinatensystem', 'word3': 'Relativität'},
        {'searched Word': 'Kreisel', 'word1': 'Drehen', 'word2': 'Bewegung', 'word3': 'Karussell'},
